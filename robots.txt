@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Sitemap: https://bmblog.github.io/sitemap.xml
+Sitemap: https://bmblog.github.io/baidusitemap.xml
